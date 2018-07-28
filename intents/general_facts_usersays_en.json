@@ -1,0 +1,122 @@
+[
+  {
+    "id": "21d62262-05f6-43a5-aef4-5ad55b37f76e",
+    "data": [
+      {
+        "text": "Tell me a General fact",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530411402
+  },
+  {
+    "id": "cdf25902-4685-4900-983c-1f1883731b5d",
+    "data": [
+      {
+        "text": "Tell me a fact",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530411402
+  },
+  {
+    "id": "abb179e3-06dd-4013-9c9b-75f27bd8c28c",
+    "data": [
+      {
+        "text": "Ask General fact",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530410532
+  },
+  {
+    "id": "a1d640df-d598-43e4-ae99-48c88cc13453",
+    "data": [
+      {
+        "text": "Ask General facts",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530410532
+  },
+  {
+    "id": "fb9aee32-f8e1-44d3-84ad-f5e3d1c8b7e0",
+    "data": [
+      {
+        "text": "A random general fact",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1530409288
+  },
+  {
+    "id": "2b588e91-a62c-4d64-8e6a-d489b0f1627f",
+    "data": [
+      {
+        "text": "Tell me a Random General fact",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530280328
+  },
+  {
+    "id": "89d6a7c7-79ae-4912-9c1d-63f0441cb5a5",
+    "data": [
+      {
+        "text": "General fact",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530206559
+  },
+  {
+    "id": "0f3e6b88-fc6b-42dd-afe4-3635d171ff08",
+    "data": [
+      {
+        "text": "Can you tell me a General fact",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530206559
+  },
+  {
+    "id": "100c144b-2393-4ec8-b64c-45c907df7924",
+    "data": [
+      {
+        "text": "Let us hear a General fact",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530206559
+  },
+  {
+    "id": "6861e988-e1bb-4ba2-bd35-e48693c6f43e",
+    "data": [
+      {
+        "text": "Tell me a General fact",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530206559
+  }
+]

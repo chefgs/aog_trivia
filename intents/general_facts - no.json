@@ -1,0 +1,33 @@
+{
+  "id": "c86601c7-5ce3-413a-a0f7-ebcc00ec5430",
+  "parentId": "c5e2089c-ddc5-4eb4-a42f-c1203b1eb823",
+  "rootParentId": "c5e2089c-ddc5-4eb4-a42f-c1203b1eb823",
+  "name": "tamil_facts - no",
+  "auto": true,
+  "contexts": [
+    "tamil_facts-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "tamil_facts.tamil_facts-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1530192683,
+  "fallbackIntent": false,
+  "events": []
+}

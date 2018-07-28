@@ -1,0 +1,35 @@
+{
+  "id": "c5e2089c-ddc5-4eb4-a42f-c1203b1eb823",
+  "name": "tamil_facts",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "tamil_facts-followup",
+          "parameters": {},
+          "lifespan": 25
+        }
+      ],
+      "parameters": [],
+      "messages": [],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1531089617,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "WELCOME"
+    },
+    {
+      "name": "GOOGLE_ASSISTANT_WELCOME"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "description": "Agent for General facts Google Actions",
+  "language": "en",
+  "disableInteractionLogs": false,
+  "disableStackdriverLogs": true,
+  "googleAssistant": {
+    "googleAssistantCompatible": true,
+    "welcomeIntentSignInRequired": false,
+    "startIntents": [
+      {
+        "intentId": "a9fed898-a2d1-4b0b-92e4-2c9ccbee16ac",
+        "signInRequired": false
+      }
+    ],
+    "systemIntents": [],
+    "endIntentIds": [
+      "64f78630-985c-4263-aea5-658ddcdeea2c",
+      "c86601c7-5ce3-413a-a0f7-ebcc00ec5430",
+      "84adc432-d11c-47e0-8e21-5ff293ee90bc",
+      "044781f2-3b31-4995-85ba-c77a6aa4368a"
+    ],
+    "oAuthLinking": {
+      "required": false,
+      "grantType": "AUTH_CODE_GRANT"
+    },
+    "voiceType": "MALE_1",
+    "capabilities": [],
+    "protocolVersion": "V2",
+    "autoPreviewEnabled": true,
+    "isDeviceAgent": false
+  },
+  "defaultTimezone": "Europe/Madrid",
+  "webhook": {
+    "url": "https://us-central1-facts-tamil.cloudfunctions.net/dialogflowFirebaseFulfillment",
+    "available": true,
+    "useForDomains": false,
+    "cloudFunctionsEnabled": true,
+    "cloudFunctionsInitialized": true
+  },
+  "isPrivate": true,
+  "customClassifierMode": "use.after",
+  "mlMinConfidence": 0.3,
+  "supportedLanguages": [],
+  "onePlatformApiVersion": "v2",
+  "analyzeQueryTextSentiment": false
+}
