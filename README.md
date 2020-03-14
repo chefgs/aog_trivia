@@ -49,7 +49,7 @@ Use source files available in "fulfillment_webhook" Directory
   Quick start tips
 </h2>
 <p>
-  Developers who has experience in Dialoagflow can download the "aog_trivia.zip" file.<br>
+  Developers who has experience in Dialogflow can download the "aog_trivia.zip" file.<br>
   Create an agent with the preferred name.<br>
   Export the aog_trivia.zip file as instant agent from "Dialogflow agent settings".<br>
   Once the agent is created fullfilment webhook can be enabled and use the files available in "fulfillment_webhook" Directory to add firebase code.<br>
